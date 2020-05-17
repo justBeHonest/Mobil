@@ -1,2 +1,1 @@
-# Mobil
-app
+# Ahmet Ali Aşık 171816005 mobil proje ödevi
